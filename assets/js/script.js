@@ -19,3 +19,33 @@ button.addEventListener('click', function(citySearch) {          //Function to d
         input.value="";
     })
 })
+
+
+
+
+// Archived script
+
+// //Search for a city
+// function citySearch () {
+
+// }
+
+// //City name, date, weather icon, temp, himidity, windspeed, and UV index
+// function cityConditions () {
+
+// }
+
+// //Changes color depending on favorable, moderate or severe
+// function uvIndex() {
+
+// }
+
+// //5-day forcast, displays date, weather icon, temp, windpeed, and humidity
+// function weatherConditions () {
+
+// }
+
+// //Adds searched cities and places it in a history cache, clicking brings back to that datapoint
+// function cityHistory () {
+// localStorage()
+// }
